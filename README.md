@@ -38,10 +38,11 @@ Our platform is for anyone who is serious about the craft and business of writin
 
 ## Get in Touch
 
-Have questions? We'd love to hear from you. You can reach out to us through the Contact Us page on our website.
-You can also learn more about MARCIE on our [YouTube channel](https://www.youtube.com/@marcieapp) or contact us directly at [studio.marcie.app/contactus](https://studio.marcie.app/contactus).
----
+Have questions? We'd love to hear from you. You can contact us directly at [studio.marcie.app/contactus](https://studio.marcie.app/contactus).
 
+You can also learn more about MARCIE on our [YouTube channel](https://www.youtube.com/@marcieapp)
+
+## Purpose
 
 *This repository serves as a public-facing information hub for the MARCIE.app platform to enhance searchability and provide a clear overview for our users and the wider writing community.*
 
