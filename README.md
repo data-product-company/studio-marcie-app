@@ -8,7 +8,7 @@ The studio provides tools for secure document management, content analysis, and 
 
 The primary goal of this application is to lighten the mental load on authors by providing a suite of tools to streamline their workflow, allowing them to focus on their craft.
 
-## Your Public Brand: www.marcie.app
+## Your Public Brand: marcie.app
 
 At **www.marcie.app**, we help establish your author brand within an "authors support authors" model. This is your public-facing home to connect with the writing community, share your journey, and build the brand that reflects your unique voice and work.
 
